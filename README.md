@@ -10,4 +10,4 @@
  Sos ingeniero no jardinero, tenés que usar linux carajo.
  suppi
  
- ![Alt text](home/matthew/Pictures/siegmeyer.jpg)
+ ![Alt text](images/fum.jpeg)
