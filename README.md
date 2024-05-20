@@ -10,4 +10,4 @@
  Sos ingeniero no jardinero, tenés que usar linux carajo.
  suppi
  
- ![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FPXego_%2Fstatus%2F1365424247376601099&psig=AOvVaw1aKeU9qlG5SRqhl_i_CLsx&ust=1716309953666000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC-lP_WnIYDFQAAAAAdAAAAABAD)
+ ![Alt text](home/matthew/Pictures/siegmeyer.jpg)
